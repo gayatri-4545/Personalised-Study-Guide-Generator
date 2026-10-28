@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.Sprint5venv/
+Sprint5venv/
+.venv/
+venv/
+data/processed/
+.streamlit/
+*.egg-info/
+.DS_Store
